@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 32ee35f88a61f744bbdfa612fef8e4a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: obstacle_0
+    21300002: obstacle_1
+    21300004: obstacle_2
+    21300006: obstacle_3
+    21300008: obstacle_4
+    21300010: obstacle_5
+    21300012: obstacle_6
+    21300014: obstacle_7
+    21300016: obstacle_8
+    21300018: obstacle_9
+    21300020: obstacle_10
+    21300022: obstacle_11
+    21300024: obstacle_12
+    21300026: obstacle_13
+    21300028: obstacle_14
+    21300030: obstacle_15
+    21300032: obstacle_16
+    21300034: obstacle_17
+    21300036: obstacle_18
+    21300038: obstacle_19
+    21300040: obstacle_20
+    21300042: obstacle_21
+    21300044: obstacle_22
+    21300046: obstacle_23
+    21300048: obstacle_24
+    21300050: obstacle_25
+    21300052: obstacle_26
+    21300054: obstacle_27
+    21300056: obstacle_28
+    21300058: obstacle_29
+    21300060: obstacle_30
+    21300062: obstacle_31
+    21300064: obstacle_32
+    21300066: obstacle_33
+    21300068: obstacle_34
+    21300070: obstacle_35
+    21300072: obstacle_36
+    21300074: obstacle_37
+    21300076: obstacle_38
+    21300078: obstacle_39
+    21300080: obstacle_40
+    21300082: obstacle_41
+    21300084: obstacle_42
+    21300086: obstacle_43
+    21300088: obstacle_44
+    21300090: obstacle_45
+    21300092: obstacle_46
+    21300094: obstacle_47
+    21300096: obstacle_48
+    21300098: obstacle_49
+    21300100: obstacle_50
+    21300102: obstacle_51
+    21300104: obstacle_52
+    21300106: obstacle_53
+    21300108: obstacle_54
+    21300110: obstacle_55
+    21300112: obstacle_56
+    21300114: obstacle_57
+    21300116: obstacle_58
+    21300118: obstacle_59
+    21300120: obstacle_60
+    21300122: obstacle_61
+    21300124: obstacle_62
+    21300126: obstacle_63
+    21300128: obstacle_64
+    21300130: obstacle_65
+    21300132: obstacle_66
+    21300134: obstacle_67
+    21300136: obstacle_68
+    21300138: obstacle_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: obstacle_0
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 3660
+        width: 431
+        height: 134
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_1
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 3534
+        width: 598
+        height: 562
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_2
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 3772
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_3
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 3390
+        width: 236
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_4
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 3651
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_6
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3620
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_7
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 3599
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_8
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3599
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_9
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 3563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3548
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_11
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3540
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_12
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 3246
+        width: 347
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3520
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3484
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_15
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3487
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_16
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 3362
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_17
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_18
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_19
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 3359
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3460
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_22
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3448
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3412
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_24
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3400
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_25
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2759
+        width: 995
+        height: 607
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_26
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 3166
+        width: 400
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_27
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 3250
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_28
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 3314
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_29
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 3322
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_30
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 3318
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_31
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 3322
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_32
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 3294
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_33
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 3298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_34
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 3302
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_35
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 3294
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_36
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3344
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_38
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 2839
+        width: 138
+        height: 398
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_39
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 2776
+        width: 93
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_40
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_41
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2980
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_42
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2786
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_43
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 2783
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_44
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2743
+        width: 206
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_45
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2447
+        width: 839
+        height: 321
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_46
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1734
+        width: 958
+        height: 1023
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_47
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1576
+        width: 454
+        height: 1098
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_48
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2014
+        width: 480
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_49
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1315
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_50
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_51
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 927
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_52
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 856
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_54
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_55
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 662
+        width: 391
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_56
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 688
+        width: 250
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_57
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 412
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_58
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 150
+        width: 44
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_59
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 158
+        width: 148
+        height: 323
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_60
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 404
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_62
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 338
+        width: 160
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 508
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_64
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_65
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 104
+        width: 157
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_66
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 79
+        width: 400
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_67
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 1015
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: obstacle_69
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 6
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
